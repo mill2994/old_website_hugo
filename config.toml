@@ -1,7 +1,8 @@
-baseURL = 'http://example.org/'
+baseURL = 'https://mill2994.github.io/'
 languageCode = 'en-us'
 title = 'Benjamin Miller'
 theme = "ananke"
+publishDir = "docs"
 
 [[params.ananke_socials]]
 name = "github"
