@@ -1,0 +1,8 @@
+baseURL = 'http://example.org/'
+languageCode = 'en-us'
+title = 'Benjamin Miller'
+theme = "ananke"
+
+[[params.ananke_socials]]
+name = "github"
+url = "https://github.com/mill2994"
