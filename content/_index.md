@@ -1,5 +1,5 @@
 ---
-title: "Benjamin Miller"
+title: "BenjaminJ Miller"
 
 description: "Personal Website"
 # 1. To ensure Netlify triggers a build on our exampleSite instrance, we need to change a file in the exampleSite directory.
