@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>C&#43;&#43; on Home</title>
+    <link>https://mill2994.github.io/tags/c&#43;&#43;/</link>
+    <description>Recent content in C&#43;&#43; on Home</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 01 May 2021 15:21:07 -0400</lastBuildDate><atom:link href="https://mill2994.github.io/tags/c++/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Algorithm Engineering Research Project</title>
+      <link>https://mill2994.github.io/projects/algorithmengineeringfinal/</link>
+      <pubDate>Sat, 01 May 2021 15:21:07 -0400</pubDate>
+      
+      <guid>https://mill2994.github.io/projects/algorithmengineeringfinal/</guid>
+      <description>For the final project in my Algorithm Engineering class, I got to conduct research on some of the popular algorithms and data structures, and these were the results of the 4 different experiments! (In PDF&amp;rsquo;s)
+ Binary Tree v Hashtable Hybrid Sorting Multiset v Vectors Quicksort v Insertion sort  </description>
+    </item>
+    
+  </channel>
+</rss>
