@@ -1,6 +1,5 @@
 ---
 title: "About"
-description: "A few years ago, while visiting or, rather, rummaging about Notre-Dame, the author of this book found, in an obscure nook of one of the towers, the following word, engraved by hand upon the wall: —ANANKE."
 featured_image: '/test.jpg'
 menu:
   main:
@@ -8,4 +7,6 @@ menu:
 ---
 {{< figure src="/test.jpg" title="Illustration from Victor Hugo et son temps (1881)" >}}
 
-_The Hunchback of Notre-Dame_ (French: _Notre-Dame de Paris_) is a French Romantic/Gothic novel by Victor Hugo, published in 1831. The original French title refers to Notre Dame Cathedral, on which the story is centered. English translator Frederic Shoberl named the novel The Hunchback of Notre Dame in 1833 because at the time, Gothic novels were more popular than Romance novels in England. The story is set in Paris, France in the Late Middle Ages, during the reign of Louis XI.
+Hi! I'm Ben! I am currently an aspiring software engineer. I graduated from Michigan State University in 2022, and currently attend the University of Michigan where I am pursuing my Masters. My passion for computer science began in high school when I took my first programming class. For the final project we were tasked to create a game in C++ and were given a few weeks to work on it. My group finished our battleship game in about a week, and instead of taking it easy and being content with what we had, we decided to go above on beyond. We figured out how to add sound and color to the terminal, and when that wasn't enough, we added Towers of Hanoi and held our own mini competition to create Blackjack. That project helped make me into the person I am today, and was the beginning of my strong work ethic in computer science.
+
+I created this site using Hugo to display some of my notable projects that I have worked on. I hope you see something that catches your eye! Thank you for visiting!

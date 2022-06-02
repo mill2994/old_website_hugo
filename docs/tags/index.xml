@@ -1,18 +1,90 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on Benjamin Miller</title>
+    <title>Tags on Home</title>
     <link>https://mill2994.github.io/tags/</link>
-    <description>Recent content in Tags on Benjamin Miller</description>
+    <description>Recent content in Tags on Home</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 09 Apr 2017 10:58:08 -0400</lastBuildDate><atom:link href="https://mill2994.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 20 May 2022 15:21:07 -0400</lastBuildDate><atom:link href="https://mill2994.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>scene</title>
-      <link>https://mill2994.github.io/tags/scene/</link>
-      <pubDate>Sun, 09 Apr 2017 10:58:08 -0400</pubDate>
+      <title>MongoDB</title>
+      <link>https://mill2994.github.io/tags/mongodb/</link>
+      <pubDate>Fri, 20 May 2022 15:21:07 -0400</pubDate>
       
-      <guid>https://mill2994.github.io/tags/scene/</guid>
+      <guid>https://mill2994.github.io/tags/mongodb/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Python</title>
+      <link>https://mill2994.github.io/tags/python/</link>
+      <pubDate>Fri, 20 May 2022 15:21:07 -0400</pubDate>
+      
+      <guid>https://mill2994.github.io/tags/python/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Selenium</title>
+      <link>https://mill2994.github.io/tags/selenium/</link>
+      <pubDate>Thu, 05 May 2022 15:21:07 -0400</pubDate>
+      
+      <guid>https://mill2994.github.io/tags/selenium/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bootstrap</title>
+      <link>https://mill2994.github.io/tags/bootstrap/</link>
+      <pubDate>Mon, 02 May 2022 15:21:07 -0400</pubDate>
+      
+      <guid>https://mill2994.github.io/tags/bootstrap/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Javascript</title>
+      <link>https://mill2994.github.io/tags/javascript/</link>
+      <pubDate>Mon, 02 May 2022 15:21:07 -0400</pubDate>
+      
+      <guid>https://mill2994.github.io/tags/javascript/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>C#</title>
+      <link>https://mill2994.github.io/tags/c#/</link>
+      <pubDate>Sat, 30 Apr 2022 15:21:07 -0400</pubDate>
+      
+      <guid>https://mill2994.github.io/tags/c#/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>C&#43;&#43;</title>
+      <link>https://mill2994.github.io/tags/c&#43;&#43;/</link>
+      <pubDate>Sat, 01 May 2021 15:21:07 -0400</pubDate>
+      
+      <guid>https://mill2994.github.io/tags/c&#43;&#43;/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>HTML/CSS</title>
+      <link>https://mill2994.github.io/tags/html/css/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mill2994.github.io/tags/html/css/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>TODO</title>
+      <link>https://mill2994.github.io/tags/todo/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mill2994.github.io/tags/todo/</guid>
       <description></description>
     </item>
     
