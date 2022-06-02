@@ -4,8 +4,7 @@ title = 'Home'
 theme = "ananke"
 publishDir = "docs"
 
-[params]
-background_color_class = "bg-navy"
+
 
 [[params.ananke_socials]]
 name = "github"

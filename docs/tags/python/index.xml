@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Python on Home</title>
+    <link>https://mill2994.github.io/tags/python/</link>
+    <description>Recent content in Python on Home</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 20 May 2022 15:21:07 -0400</lastBuildDate><atom:link href="https://mill2994.github.io/tags/python/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Discord Bot</title>
+      <link>https://mill2994.github.io/projects/benbot/</link>
+      <pubDate>Fri, 20 May 2022 15:21:07 -0400</pubDate>
+      
+      <guid>https://mill2994.github.io/projects/benbot/</guid>
+      <description>BenBot is a discord bot that I created for my server with my friends. I decided to make my own bot so that I could have full control over how it worked, and I would be able to implement the features that I really wanted. Plus, if AI ever take over, it can&amp;rsquo;t hurt to have one as my son. All jokes aside, BenBot is currently capable of recording cold takes, sending messages at specific times, listening for and responding to key words, saving to and accessing a database, using threading to keep track of date and time, and responding to specific users or channels, with updates coming regularly.</description>
+    </item>
+    
+    <item>
+      <title>Pancake or Waffle?</title>
+      <link>https://mill2994.github.io/projects/pancakevwaffle/</link>
+      <pubDate>Thu, 05 May 2022 15:21:07 -0400</pubDate>
+      
+      <guid>https://mill2994.github.io/projects/pancakevwaffle/</guid>
+      <description>I wanted to learn more about machine learning, so I created a program that labeled whether a picture was of a pancake or a waffle. The program achieves around 90% accuracy for the labeling. Due to having a relatively small data set, I used data augmentation to help avoid overfitting. Overall, the biggest thing I learned was that having a good dataset for machine learning was just as important as the code and algorithms used.</description>
+    </item>
+    
+    <item>
+      <title>Wildfire Risk Forecasting Tool</title>
+      <link>https://mill2994.github.io/projects/capstone/</link>
+      <pubDate>Mon, 02 May 2022 15:21:07 -0400</pubDate>
+      
+      <guid>https://mill2994.github.io/projects/capstone/</guid>
+      <description>For my computer science capstone course at Michigan State, I worked with the Anthropocene Institute to help create the Wildfire Risk Forecasting Tool. The goal for the project was to create an educational, open source, and easy to access tool for forecasting current and future wildfires. The web app features a plotly map and a form. The form contains preset scenarios or adjustable options. The fire then gets plotted onto the map, and real life impacts are calculated.</description>
+    </item>
+    
+  </channel>
+</rss>
