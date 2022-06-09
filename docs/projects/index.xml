@@ -31,7 +31,8 @@
       <pubDate>Mon, 02 May 2022 15:21:07 -0400</pubDate>
       
       <guid>https://mill2994.github.io/projects/capstone/</guid>
-      <description>For my computer science capstone course at Michigan State, I worked with the Anthropocene Institute to help create the Wildfire Risk Forecasting Tool. The goal for the project was to create an educational, open source, and easy to access tool for forecasting current and future wildfires. The web app features a plotly map and a form. The form contains preset scenarios or adjustable options. The fire then gets plotted onto the map, and real life impacts are calculated.</description>
+      <description>Hosted WRiFT Site 
+For my computer science capstone course at Michigan State, I worked with the Anthropocene Institute to help create the Wildfire Risk Forecasting Tool. The goal for the project was to create an educational, open source, and easy to access tool for forecasting current and future wildfires. The web app features a plotly map and a form. The form contains preset scenarios or adjustable options. The fire then gets plotted onto the map, and real life impacts are calculated.</description>
     </item>
     
     <item>
@@ -50,7 +51,7 @@
       
       <guid>https://mill2994.github.io/projects/algorithmengineeringfinal/</guid>
       <description>For the final project in my Algorithm Engineering class, I got to conduct research on some of the popular algorithms and data structures, and these were the results of the 4 different experiments! (In PDF&amp;rsquo;s)
- Binary Tree v Hashtable Hybrid Sorting Multiset v Vectors Quicksort v Insertion sort  </description>
+ Binary Tree v Hashtable  Hybrid Sorting  Multiset v Vectors  Quicksort v Insertion sort   </description>
     </item>
     
     <item>
@@ -59,7 +60,8 @@
       <pubDate>Thu, 01 Apr 2021 15:21:07 -0400</pubDate>
       
       <guid>https://mill2994.github.io/projects/gpacalc/</guid>
-      <description>During my junior year of undergrad, I realized that it would actually be possible for me to graduate with Honors, a GPA of 3.82 or higher. At the time I had around a 3.78, so it was not going to be easy with less than half of my classes left and many of the more advanced classes left, but worth the challenge. The problem was, I wanted to know what I needed to get in my classes senior year, but could not find a calculator where I could input grades on a .</description>
+      <description>GPA Calculator 
+During my junior year of undergrad, I realized that it would actually be possible for me to graduate with Honors, a GPA of 3.82 or higher. At the time I had around a 3.78, so it was not going to be easy with less than half of my classes left and many of the more advanced classes left, but worth the challenge. The problem was, I wanted to know what I needed to get in my classes senior year, but could not find a calculator where I could input grades on a .</description>
     </item>
     
     <item>
