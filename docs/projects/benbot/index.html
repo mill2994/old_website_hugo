@@ -53,10 +53,8 @@
    
   
 
-  
-  
-  <header class="cover bg-top" style="background-image: url('https://mill2994.github.io/test.jpg');">
-    <div class="bg-black-60">
+  <header>
+    <div class="bg-navy">
       <nav class="pv3 ph3 ph4-ns" role="navigation">
   <div class="flex-l justify-between items-center center">
     <a href="/" class="f3 fw2 hover-white no-underline white-90 dib">
@@ -105,12 +103,6 @@
   </div>
 </nav>
 
-      <div class="tc-l pv6 ph3 ph4-ns">
-        
-          <h1 class="f2 f1-l fw2 white-90 mb0 lh-title">Discord Bot</h1>
-          
-        
-      </div>
     </div>
   </header>
 
@@ -151,7 +143,8 @@
       
       
     </header>
-    <div class="nested-copy-line-height lh-copy serif f4 nested-links mid-gray pr4-l w-two-thirds-l"><p>BenBot is a discord bot that I created for my server with my friends. I decided to make my own bot so that I could have full control over how it worked, and I would be able to implement the features that I really wanted. Plus, if AI ever take over, it can&rsquo;t hurt to have one as my son. All jokes aside, BenBot is currently capable of recording cold takes, sending messages at specific times, listening for and responding to key words, saving to and accessing a database, using threading to keep track of date and time, and responding to specific users or channels, with updates coming regularly.</p>
+    <div class="nested-copy-line-height lh-copy serif f4 nested-links mid-gray pr4-l w-two-thirds-l"><p><img src="/Discord.png" alt="BenBot"></p>
+<p>BenBot is a discord bot that I created for my server with my friends. I decided to make my own bot so that I could have full control over how it worked, and I would be able to implement the features that I really wanted. Plus, if AI ever take over, it can&rsquo;t hurt to have one as my son. All jokes aside, BenBot is currently capable of recording cold takes, sending messages at specific times, listening for and responding to key words, saving to and accessing a database, using threading to keep track of date and time, and responding to specific users or channels, with updates coming regularly.</p>
 <p>The cold takes feature is currently the main feature of BenBot. It works first by a user responding to a message, that they think will not age well, with a date. That message is then saved to a database using MongoDB, with the specified date. By using threading to keep track of time, so the rest of the features are not frozen, the bot waits for until 1pm then checks the date and pulls all the database entries with the same date. Any entries gathered are sent into the server, and then deleted from the database.</p>
 <p>Lastly BenBot is capable of 24/7 uptime by using UptimeRobot to ping the bot and Replit to host the program</p>
 <ul class="pa0">
