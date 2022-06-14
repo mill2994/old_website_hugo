@@ -1,6 +1,6 @@
 ---
 title: "About"
-featured_image: '/test.jpg'
+featured_image: ''
 menu:
   main:
     weight: 1
