@@ -6,4 +6,4 @@ menu: main
 
 ---
 
-![Scenario 1: Across columns](/resumePNG.png)
+![Scenario 1: Across columns](/ResumeV2.2.jpg)
