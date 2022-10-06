@@ -1,6 +1,6 @@
 ---
 title: "Guitar Learning Tool - In Progress"
-draft: false
+draft: true
 tags: ["TODO"]
 ---
 
