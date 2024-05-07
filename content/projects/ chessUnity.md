@@ -6,7 +6,7 @@ draft: false
 ---
 ![Unity Chess Game](/UnityChessMoon.png)
 
-For my computer graphics final project, we had to create something involving lighting. I chose to extend a chess game in unity. To create the logic for the game itself, I followed a tutorial. The tutorial left me with a board and movable pieces. The remainder of the project was my own additions. 
+For my computer graphics final project, I had to create something involving lighting. I chose to extend a chess game in unity. To create the logic for the game itself, I followed a tutorial. The tutorial left me with a board and movable pieces. The remainder of the project was my own additions. 
 
 I added a skybox, seen in the picture above. I updated the cameras for each player's turn, to give them a view from behind their pieces. New dim lighting to give the nighttime feeling was also added. Finally, I added functionality for a castling move, which in short allows for a castle to swap places with a king.
 
