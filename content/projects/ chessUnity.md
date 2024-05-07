@@ -6,8 +6,10 @@ draft: false
 ---
 ![Unity Chess Game](/UnityChessMoon.png)
 
-For my computer graphics final project, we were allowed to decide what we wanted to do. I chose to create a chess game in unity. Part of the project was a tutorial I followed, and then part was my own additions. Overall this was my first time coding in C# and in a game engine, so I learned a lot about assets and working in a 3D space. I had a lot of fun with this, and tried to go above and beyond for it. 
+For my computer graphics final project, we had to create something involving lighting. I chose to extend a chess game in unity. To create the logic for the game itself, I followed a tutorial. The tutorial left me with a board and movable pieces. The remainder of the project was my own additions. 
 
-The parts I implemented beyond the tutorial, learning Unity, and C# were to allow for the castling move, a skybox and additional lighting, new cameras and a camera for each players turn, and implementing a different chess asset pack from the Unity store.
+I added a skybox, seen in the picture above. I updated the cameras for each player's turn, to give them a view from behind their pieces. New dim lighting to give the nighttime feeling was also added. Finally, I added functionality for a castling move, which in short allows for a castle to swap places with a king.
 
-Overall I learned a lot about using game engines and 3D modeling and spaces, and could definitely see myself using Unity in the future for more personal projects!
+This was my first time coding in C# and in a game engine, and I learned a lot about assets and working in a 3D space. I had a lot of fun with this, and tried to go above and beyond. 
+
+Overall I could definitely see myself using Unity in the future for more personal projects!

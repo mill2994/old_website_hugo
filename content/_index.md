@@ -7,4 +7,6 @@ theme_version: '2.8.2'
 cascade:
 featured_image: 'michigan-state-university_941.jpeg'
 ---
-Welcome to my personal website with a few of my favorite projects. Scroll down to read about them, or visit my about page to learn more about the person behind the code!
+Welcome to my personal website! I created and deployed this site to have a place to talk about a few of my favorite projects! If you would like to learn a bit more about me, click on the about tab or scroll to read about some projects I have worked on 
+
+Thanks for visiting!
