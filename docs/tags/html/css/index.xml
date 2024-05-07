@@ -12,7 +12,7 @@
       <pubDate>Mon, 02 May 2022 15:21:07 -0400</pubDate>
       
       <guid>https://mill2994.github.io/projects/capstone/</guid>
-      <description>For my computer science capstone course at Michigan State, I worked with the Anthropocene Institute to help create the Wildfire Risk Forecasting Tool. The goal for the project was to create an educational, open source, and easy to access tool for forecasting current and future wildfires. The web app features a plotly map and a form, as well as additional pages to learn more about wildfires. The form contains preset scenarios or adjustable options.</description>
+      <description>For my computer science capstone course at Michigan State, I worked with the Anthropocene Institute, founded by Carl Page, to create the Wildfire Risk Forecasting Tool. The group decided that the goal for the project was to create an educational, open source, and easy to access tool for forecasting current and future wildfires. The web app features a plotly map and a form, as well as additional pages to learn more about wildfires.</description>
     </item>
     
     <item>
@@ -21,7 +21,7 @@
       <pubDate>Thu, 01 Apr 2021 15:21:07 -0400</pubDate>
       
       <guid>https://mill2994.github.io/projects/gpacalc/</guid>
-      <description>During my junior year of undergrad, I realized that it would be possible for me to graduate with Honor, a GPA of 3.82 or higher. At the time I had around a 3.78, so it was not going to be easy with less than half of my classes left and many of the more advanced classes left, but worth the challenge. The problem was, I wanted to know what I needed to get in my classes senior year, but could not find a calculator where I could input grades on a .</description>
+      <description>During my junior year of undergrad, I realized that it would be possible for me to graduate with Honor, requiring a GPA of 3.82 or higher. The problem was, I wanted to know what I needed to get in my classes senior year, so I needed to be able to input my current GPA, remaining credits, and final GPA to then get the GPA I needed for those remaining credits. For example, if I took 60 credits and have 60 more to go, and have a 3.</description>
     </item>
     
   </channel>

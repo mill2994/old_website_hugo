@@ -6,14 +6,14 @@
     <description>Recent content in MongoDB on Home</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 20 May 2022 15:21:07 -0400</lastBuildDate><atom:link href="https://mill2994.github.io/tags/mongodb/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 20 Apr 2024 15:21:07 -0400</lastBuildDate><atom:link href="https://mill2994.github.io/tags/mongodb/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Discord Bot</title>
       <link>https://mill2994.github.io/projects/benbot/</link>
-      <pubDate>Fri, 20 May 2022 15:21:07 -0400</pubDate>
+      <pubDate>Sat, 20 Apr 2024 15:21:07 -0400</pubDate>
       
       <guid>https://mill2994.github.io/projects/benbot/</guid>
-      <description>With this project I decided I was going to branch out from the types of projects I have typically worked on. I wanted to create something me and other people would be able to use daily, that would provide utility. BenBot was my answer! BenBot is a discord bot that I created for my server with my friends. I decided to make my own bot so that I could have full control over how it worked, and I would be able to implement the features that I really wanted.</description>
+      <description>With this project I decided try something new. I wanted to create something me and other people would be able to use daily, that would provide utility. BenBot was my answer! BenBot is a discord bot that I created for my server with my friends. I decided to make my own bot so that I could have full control over how it worked, and I would be able to implement the features that I really wanted.</description>
     </item>
     
   </channel>

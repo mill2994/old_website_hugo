@@ -6,14 +6,14 @@
     <description>Recent content in Benjamin Miller on Home</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 20 May 2022 15:21:07 -0400</lastBuildDate><atom:link href="https://mill2994.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 20 Apr 2024 15:21:07 -0400</lastBuildDate><atom:link href="https://mill2994.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Discord Bot</title>
       <link>https://mill2994.github.io/projects/benbot/</link>
-      <pubDate>Fri, 20 May 2022 15:21:07 -0400</pubDate>
+      <pubDate>Sat, 20 Apr 2024 15:21:07 -0400</pubDate>
       
       <guid>https://mill2994.github.io/projects/benbot/</guid>
-      <description>With this project I decided I was going to branch out from the types of projects I have typically worked on. I wanted to create something me and other people would be able to use daily, that would provide utility. BenBot was my answer! BenBot is a discord bot that I created for my server with my friends. I decided to make my own bot so that I could have full control over how it worked, and I would be able to implement the features that I really wanted.</description>
+      <description>With this project I decided try something new. I wanted to create something me and other people would be able to use daily, that would provide utility. BenBot was my answer! BenBot is a discord bot that I created for my server with my friends. I decided to make my own bot so that I could have full control over how it worked, and I would be able to implement the features that I really wanted.</description>
     </item>
     
     <item>
@@ -22,7 +22,7 @@
       <pubDate>Thu, 05 May 2022 15:21:07 -0400</pubDate>
       
       <guid>https://mill2994.github.io/projects/pancakevwaffle/</guid>
-      <description>I wanted to learn more about machine learning and fill the gap in my knowledge the best I could, as I never got to take a dedicated class about the topic. This inspired me to create a program that would implement some of the basics of machine learning. I created a tool that labeled whether a picture was of a pancake or a waffle. The program achieves around 90% accuracy for the labeling.</description>
+      <description>I wanted to learn more about machine learning and fill the gap in my knowledge the best I could, as I never got to take a dedicated class about the topic. This inspired me to create a program that would implement some basics of machine learning. I created a tool that labeled whether a picture was of a pancake or a waffle. The program achieves around 90% accuracy for the labeling.</description>
     </item>
     
     <item>
@@ -31,7 +31,7 @@
       <pubDate>Mon, 02 May 2022 15:21:07 -0400</pubDate>
       
       <guid>https://mill2994.github.io/projects/capstone/</guid>
-      <description>For my computer science capstone course at Michigan State, I worked with the Anthropocene Institute to help create the Wildfire Risk Forecasting Tool. The goal for the project was to create an educational, open source, and easy to access tool for forecasting current and future wildfires. The web app features a plotly map and a form, as well as additional pages to learn more about wildfires. The form contains preset scenarios or adjustable options.</description>
+      <description>For my computer science capstone course at Michigan State, I worked with the Anthropocene Institute, founded by Carl Page, to create the Wildfire Risk Forecasting Tool. The group decided that the goal for the project was to create an educational, open source, and easy to access tool for forecasting current and future wildfires. The web app features a plotly map and a form, as well as additional pages to learn more about wildfires.</description>
     </item>
     
     <item>
@@ -40,7 +40,8 @@
       <pubDate>Sat, 30 Apr 2022 15:21:07 -0400</pubDate>
       
       <guid>https://mill2994.github.io/projects/-chessunity/</guid>
-      <description>For my computer graphics final project, we were allowed to decide what we wanted to do. I chose to create a chess game in unity. Part of the project was a tutorial I followed, and then part was my own additions. Overall this was my first time coding in C# and in a game engine, so I learned a lot about assets and working in a 3D space. I had a lot of fun with this, and tried to go above and beyond for it.</description>
+      <description>For my computer graphics final project, we had to create something involving lighting. I chose to extend a chess game in unity. To create the logic for the game itself, I followed a tutorial. The tutorial left me with a board and movable pieces. The remainder of the project was my own additions.
+I added a skybox, seen in the picture above. I updated the cameras for each player&amp;rsquo;s turn, to give them a view from behind their pieces.</description>
     </item>
     
     <item>
@@ -49,8 +50,8 @@
       <pubDate>Sat, 01 May 2021 15:21:07 -0400</pubDate>
       
       <guid>https://mill2994.github.io/projects/algorithmengineeringfinal/</guid>
-      <description>For the final project in my Algorithm Engineering class, I got to conduct research on some of the popular algorithms and data structures, and these were the results of the 4 different experiments!
- Binary Tree v Hashtable  Hybrid Sorting  Multiset v Vectors  Quicksort v Insertion sort   </description>
+      <description>For the final project in my Algorithm Engineering class, I chose to conduct research on some popular algorithms and data structures, and these were the results of the 4 different experiments!
+My most notable takeaway was that I learned about the concept of collisions for hash tables from my results being much slower than expected. These reports were from early on in my experience with data structures and algorithms, and looking back at it now in 2024 the results seem pretty straight forward, but they helped me learn a lot at the time.</description>
     </item>
     
     <item>
@@ -59,7 +60,7 @@
       <pubDate>Thu, 01 Apr 2021 15:21:07 -0400</pubDate>
       
       <guid>https://mill2994.github.io/projects/gpacalc/</guid>
-      <description>During my junior year of undergrad, I realized that it would be possible for me to graduate with Honor, a GPA of 3.82 or higher. At the time I had around a 3.78, so it was not going to be easy with less than half of my classes left and many of the more advanced classes left, but worth the challenge. The problem was, I wanted to know what I needed to get in my classes senior year, but could not find a calculator where I could input grades on a .</description>
+      <description>During my junior year of undergrad, I realized that it would be possible for me to graduate with Honor, requiring a GPA of 3.82 or higher. The problem was, I wanted to know what I needed to get in my classes senior year, so I needed to be able to input my current GPA, remaining credits, and final GPA to then get the GPA I needed for those remaining credits. For example, if I took 60 credits and have 60 more to go, and have a 3.</description>
     </item>
     
     <item>
@@ -68,7 +69,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://mill2994.github.io/about/</guid>
-      <description>Hi! I&amp;rsquo;m Ben! I am currently an aspiring software engineer. I graduated from Michigan State University in 2022, and currently attend the University of Michigan where I am pursuing my Masters in Computer Science and Engineering. My passion for computer science began in high school when I took my first programming class. For the final project we were tasked to create a game in C++ and were given a few weeks to work on it.</description>
+      <description>Hi! I&amp;rsquo;m Benjamin, or Ben for short! My passion for computer science began in high school when I took my very first programming class. For the final project, we were given the task to create a game in C++. We were given a few weeks to work on it. My group decided on battleship, and we finished game in about a week, giving us two weeks to spare. Instead of taking it easy though, we decided to go above and beyond.</description>
     </item>
     
     <item>
