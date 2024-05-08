@@ -13,7 +13,7 @@ The gameplay featured users dragging and dropping unique towers, which detroyed 
 
 The code behind this was a time based loop. Balloons would be spawned in periodically, and there was a list of towers that could be added to whenever a user added a new one. Each tower had a timer which determined when it activated. When activated, the objects shot out of them would be checked if they overlap with a balloon, and if so the balloon deleted and points awarded.
 
-This logic of: the balloon spawned, then each tower visited, each towers projectiles checked for overlap, a timer for the tower checked to see if a new projectile should activate, then back to the start of the loop, continued until the round ended.
+This logic of: The balloon spawned, then each tower visited, each towers projectiles checked for overlap, a timer for the tower checked to see if a new projectile should activate, then back to the start of the loop, continued until the round ended.
 
 Implementing the different towers helped teach me about inheritance, because each tower had a location, but the capabilities were different and required the class to be extended upon.
 
