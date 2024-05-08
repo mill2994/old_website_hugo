@@ -55,6 +55,16 @@ My most notable takeaway was that I learned about the concept of collisions for 
     </item>
     
     <item>
+      <title>Tower Defense Game</title>
+      <link>https://mill2994.github.io/projects/towerdefense/</link>
+      <pubDate>Fri, 30 Apr 2021 15:21:07 -0400</pubDate>
+      
+      <guid>https://mill2994.github.io/projects/towerdefense/</guid>
+      <description>For the final project in one of my 300 level CSE classes at MSU, we were to create a simpler version of the popular Bloons Tower Defense Game. I no longer have access to the code, but I still wanted to talk about some features that the game had, and what I learned.
+The game featured multiple levels, the layouts of which were contained in XML files. These files stored the tile type and location.</description>
+    </item>
+    
+    <item>
       <title>Minimum and Cumulative GPA calculator</title>
       <link>https://mill2994.github.io/projects/gpacalc/</link>
       <pubDate>Thu, 01 Apr 2021 15:21:07 -0400</pubDate>
